@@ -1,0 +1,28 @@
+name: Fashion Stylist
+favicon: null
+layout_spectrum: 0.6485678628087044
+typography_spectrum: 0.607013262109831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5667089745402336
+  lightness: 0.6988869791384786
+  saturation: 0.01742405374534428
+  rhythmicContrast: 0.0995979318395257
+purpose: []
